@@ -1,0 +1,4 @@
+h1. Blog data
+
+Thanks to "Tom Preston-Warner":http://github.com/mojombo/jekyll for sharing his
+default layouts.
