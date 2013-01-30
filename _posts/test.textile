@@ -5,6 +5,8 @@ title: Life Description
 
 h1. {{ page.title }}
 
-p(meta). 29 January 2013
+p(meta). 29 January 2013 - Boston
 
 Positive mean but high variance.
+
+--
