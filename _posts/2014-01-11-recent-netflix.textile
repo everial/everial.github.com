@@ -1,11 +1,11 @@
---- 
+---
 layout: post
-title: Movie Reviews
+title: Life Description
 ---
 
 h1. {{ page.title }}
 
-p(meta). 11 January 2014 - Pittsburgh
+p(meta). 11 January 2014 - Pittsburgh 
 
 Warning: includes spoilers.
 
