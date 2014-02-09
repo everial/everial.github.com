@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Life Description
+title: Recent movie adventures
 ---
 
 h1. {{ page.title }}
