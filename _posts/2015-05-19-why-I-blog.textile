@@ -1,0 +1,79 @@
+---
+layout: post
+title: Why I blog
+---
+
+h1. {{ page.title }}
+
+p(meta). 19-21 May 2015 - Pittsburgh - rocking out to SNSD
+
+h1. Why write?
+
+I want to practice writing for several reasons. First, writing is a valuable
+skill. Second, as with many other activities, writing improves with deliberate
+practice. Third, I find it personally satisfying. 
+
+Why is writing valuable? Writing lets us communicate asynchronously over any
+physical distance. This means writing allows ideas to reach pratically anyone,
+even those in the distant past or future. On a more immediate, practical level,
+writing can clarify our thinking, force us to examine assumptions, and expose 
+weaknesses in our arguments.
+
+h1. Why blog?
+
+Let's assume we agree about the value of writing. Why blog? The benefits listed
+above don't necessarily require publishing, so we should examine what changes.  
+We could approach this by listing advantages and disadvantages and ruling in 
+favor of the dominant pile. Instead, let's consider my current goals and see 
+how blogging furthers or sabotages each:
+
+* Job search: I just finished my MBA at Tepper. I'll concede that potential
+coworkers or recruiters could reject me unfairly based on material I've 
+posted[1], but this seems unlikely. I have (warning: except next bullet
+point!) culled information that hints at my membership or lack thereof in any
+protected employment category. Since posts pass my "appropriate" filter, any
+disagreement should be considered a feature, not a bug. Say a recruiter or
+potential coworker disagrees about my interpretation of appropriate. If he or
+she disqualifies me immediately then we've both saved time by skipping an
+interview. 
+We need to remember the potential good consequences, too. While less important
+than if I were searching for another full-time software job, having an online
+presence can still help. 
+
+* Finding a spouse: courtship by letter has disappeared and, despite the
+self-promotion inherent in a blog with one's name attached, I'm not an
+exhibitionist. Blogging also lets others screen _me_; if you can't stand my
+writing then we don't need to get coffee. Finally there's the miniscule chance
+that the blog _does_ cause someone to reach out (this could be good or bad).
+
+* Personal satisfaction: like many other people, I sometimes enjoy getting on
+my soapbox and (<a
+href="http://en.wikipedia.org/wiki/On_the_Internet,_nobody_knows_you%27re_a_dog">pretending
+I'm important </a>). The miniscule audience doesn't
+matter! Just like buying lottery tickets helps people daydream, I get
+satisfaction from knowing someone _could_ read my writing, even if very few
+_do_.
+
+* Improving my writing: in theory I could garner the same benefits by using a
+diary instead of a blog. In practice, however, I have limited willpower and I 
+choose to spend it other ways. 
+Compare this to running; while I usually run by myself, training
+runs for the marathon were considerably easier and more fun when done with
+the CMU crew (mostly Josue, Mike, Bryant, and Thatcher). More broadly, public
+commitments help discipline use. I use the potential ramifications to motivate
+me, channeling my worry into effort. Knowing thoughtless words could disqualify
+me serves as a reminder to focus--any entry could be used to answer various
+questions: can Adam carry an argument in writing? Would I trust him to be
+thoughtful and thorough? Could we eat lunch together? I'd like
+every response to be "yes", but readers should have clear examples supporting 
+any answer.
+
+* Other hobbies/minor goals (pottery, music, etc): time and attention have 
+limits; each activity constraints others. Right now I'm lucky enough to avoid
+this decision.
+
+Since blogging supports my current goals more than it detracts from them I'll
+continue it.
+
+fn1. If you have please <a
+href="mailto:everial@gmail.com?Subject=feedback">tell me why</a>!

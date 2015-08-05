@@ -8,8 +8,9 @@ h1. {{ page.title }}
 p(meta). 8 February 2014 - Pittsburgh 
 
 The following essay won't get you into Harvard Business School. It won't even
-get you an interview, frankly. That said, I still like it.
+get you an interview, frankly. That said, it's one of my stronger short pieces.
 
+<hr />
 
 Beep. Beep. The treadmill chimes as I hold my finger down on the speed control 
 and it ramps up after a moment - beep beep beep beep beep beep beep and we're 

@@ -1,4 +1,6 @@
 gems: [jekyll-textile-converter]
 
 textile_ext: "textile,txtl,tl"
-markdown_ext: "markdown, md"
+
+redcloth:
+    hard_breaks: false
