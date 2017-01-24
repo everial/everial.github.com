@@ -1,2 +1,4 @@
 *.swp
 *.un~
+markdown_conversion/**
+_old_posts/**
